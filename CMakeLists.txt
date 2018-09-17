@@ -4,8 +4,6 @@ project(BandwidthTester)
 set(CMAKE_CXX_STANDARD 11)
 find_package(Threads)
 
-##add_definitions(-D_DEBUG)
-
 set(SOURCES TaskManager.cpp
             TaskManager.h
             TaskProcessor.h

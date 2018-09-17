@@ -1,4 +1,4 @@
-// Developer by Andrey Bakhmutov, Sep 2018
+// Developed by Andrey Bakhmutov, Sep 2018
 
 #ifndef _BANDWIDTH_TESTER_H_
 #define _BANDWIDTH_TESTER_H_

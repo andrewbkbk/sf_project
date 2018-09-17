@@ -1,4 +1,4 @@
-// Developer by Andrey Bakhmutov, Sep 2018
+// Developed by Andrey Bakhmutov, Sep 2018
 
 #ifndef _SIMPLE_HTTP_CLIENT_H_
 #define _SIMPLE_HTTP_CLIENT_H_

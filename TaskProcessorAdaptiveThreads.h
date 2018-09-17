@@ -1,4 +1,4 @@
-// Developer by Andrey Bakhmutov, Sep 2018
+// Developed by Andrey Bakhmutov, Sep 2018
 
 #ifndef _TASK_PROCESSOR_ADAPTIVE_THREADS_H_
 #define _TASK_PROCESSOR_ADAPTIVE_THREADS_H_

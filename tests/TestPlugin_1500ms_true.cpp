@@ -1,4 +1,4 @@
-// Developer by Andrey Bakhmutov, Sep 2018
+// Developed by Andrey Bakhmutov, Sep 2018
 
 #include "TaskPlugin.h"
 #include "TestPlugin.h"

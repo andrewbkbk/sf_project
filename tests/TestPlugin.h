@@ -1,4 +1,4 @@
-// Developer by Andrey Bakhmutov, Sep 2018
+// Developed by Andrey Bakhmutov, Sep 2018
 
 #ifndef _TEST_PLUGIN_H_
 #define _TEST_PLUGIN_H_
